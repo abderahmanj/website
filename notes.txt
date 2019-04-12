@@ -1,0 +1,6 @@
+1. change in notepad++ to the file(s) index.html and styles.css
+2. view local file in local tesst urll: file:///C:/Users/baloc/Documents/GitHub/website/index.html#skills
+3. if good then push with github application
+4. view website live in url: https://abderahmanj.github.io/website/index.html
+5. if it doesnt show then press f12 -> shift click refresh button; 
+	then click empty cache and hard reload
